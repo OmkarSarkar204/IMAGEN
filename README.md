@@ -37,9 +37,15 @@ http://localhost:3000
 ```
 
 
+
+
 Acknowledgments
 
 • FAL AI for providing the image generation API
 • Stable Diffusion for the underlying AI models
 • Picsum Photos for placeholder images in demo mode
+
 • Google Fonts for the typography
+
+
+![Alt text](https://github.com/user-attachments/assets/f7aa38b6-6efc-419d-9742-988a3a5c8c29)
