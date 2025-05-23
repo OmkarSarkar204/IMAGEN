@@ -14,7 +14,7 @@ npm or yarn
 FAL AI API key (https://fal.ai)
 
 Setup
-1. Install Dependencies
+1. Install Dependencies(In the root directory)
   ```
 npm install
   ```
